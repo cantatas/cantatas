@@ -1,9 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=245FF7&lines=Hi%2C+I'm+Cantatas%EF%BC%8Cweb%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E8%80%85)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=245FF7&lines=Hi%2C+I'm+Cantatas;web%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E8%80%85)](https://git.io/typing-svg)
+
 
 
 #### GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cantatas&show_icons=true&theme=gruvbox)
+![cantatas's GitHub stats](https://github-readme-stats.vercel.app/api?username=cantatas&show_icons=true&theme=gruvbox)
 
 
 #### 热门语言
