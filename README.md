@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=245FF7&lines=web%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E8%80%85)](https://git.io/typing-svg)
 
+   8年前端经验，做过PC项目、H5活动动画项目、微信公众号开发、移动端混合开发项目等，涉及的行业有通信、数字化媒体、在线教育、电子商务等。
+每个项目都担任团队核心角色，可带领团队。工作效率高质量高，擅长使用自动化脚本完成重复工作。
+
 
 
 ## :rocket: GitHub Stats
@@ -10,7 +13,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cantatas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 ## :gem: Technologies
