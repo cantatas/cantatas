@@ -1,4 +1,4 @@
-# Hi, I'm Cantatas [ :coffee::beer::tent::evergreen_tree::mountain_bicyclist::volcano::deciduous_tree::surfer::sailboat: ]
+# Hi, I'm Cantatas  :smile::evergreen_tree::tent::mountain_bicyclist::surfer::sailboat::beer::coffee:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=245FF7&lines=web%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E8%80%85)](https://git.io/typing-svg)
 
@@ -19,15 +19,16 @@
 ![CSS3](https://img.icons8.com/color/30/css3.png)
 ![JavaScript](https://img.icons8.com/color/30/javascript.png)
 ![SASS](https://img.icons8.com/color/30/sass.png)
-![NPM](https://img.icons8.com/color/30/npm.png)
 ![NodeJS](https://img.icons8.com/color/30/nodejs.png)
-![Github](https://img.icons8.com/material-outlined/30/github.png)
-![Gitlab](https://img.icons8.com/color/30/gitlab.png)
-![Git](https://img.icons8.com/color/30/git.png)
-![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![VueJS](https://img.icons8.com/color/30/vue-js.png)
+![NPM](https://img.icons8.com/color/30/npm.png)
+![VueJS](https://img.icons8.com/color/30/vue-js.png)
 ![ReactJS](https://img.icons8.com/color/30/react-native.png)
 ![Linux](https://img.icons8.com/color/30/linux.png)
+![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
 ![Console](https://img.icons8.com/color/30/console.png)
+![Github](https://img.icons8.com/material-outlined/30/github.png)
+![Git](https://img.icons8.com/color/30/git.png)
+![Gitlab](https://img.icons8.com/color/30/gitlab.png)
 
 <!--
 **cantatas/cantatas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
