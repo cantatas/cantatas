@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=245FF7&lines=web%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E8%80%85)](https://git.io/typing-svg)
 
- 8年前端经验，做过PC项目、H5活动项目、微信公众号开发、移动端Hybrid混合开发项目等，涉及的行业有信息通信、数字化媒体、在线教育、电子商务等。每个项目都担任团队核心角色，可带领团队。工作效率高、质量高，擅长使用自动化脚本解决重复性工作。热爱技术热爱前端热爱互联网行业。
-
 
 ## :rocket: GitHub Stats
 
@@ -29,6 +27,10 @@
 ![Github](https://img.icons8.com/material-outlined/30/github.png)
 ![Git](https://img.icons8.com/color/30/git.png)
 ![Gitlab](https://img.icons8.com/color/30/gitlab.png)
+
+
+## :star2: Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/cantatas/count.svg)
 
 <!--
 **cantatas/cantatas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
