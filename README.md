@@ -1,4 +1,4 @@
-# Hi, I'm Cantatas  :smile::evergreen_tree::tent::mountain_bicyclist::surfer::sailboat::beer::coffee:
+# Hi, I'm Cantatas!  :smile::evergreen_tree::tent::mountain_bicyclist::surfer::sailboat::beer::coffee:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=245FF7&lines=web%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E8%80%85)](https://git.io/typing-svg)
 
