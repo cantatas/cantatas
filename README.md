@@ -9,6 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cantatas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- 
 
 ## :gem: Technologies
 
@@ -25,7 +26,7 @@
 ![Console](https://img.icons8.com/color/30/console.png)
 ![Github](https://img.icons8.com/material-outlined/30/github.png)
 ![Git](https://img.icons8.com/color/30/git.png)
-![Gitlab](https://img.icons8.com/color/30/gitlab.png)
+![Gitlab](https://img.icons8.com/color/30/gitlab.png) -->
 
 
 ## :star2: Visitor Count
